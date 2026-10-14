@@ -1,2 +1,2 @@
-# air-quality-ml-grupo11
-Modelos de aprendizaje automático para estimar concentraciones de contaminantes a partir de un dispositivo multisensor de gases (UCI Air Quality). Grupo 11 – Introducción al Aprendizaje Automático, UdeA 2026-2.
+# har-smartphones-ml-grupo11
+Clasificación de actividades humanas a partir de las señales del acelerómetro y el giroscopio de un smartphone (UCI HAR). Grupo 11 – Introducción al Aprendizaje Automático, UdeA 2026-2.
